@@ -4,9 +4,21 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-p {
+a {
   color: aquamarine;
   font-size: 16px;
+}
+
+h2 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+h4 {
+  font-size: 21px;
+  font-weight: lighter;
+  color: grey;
 }
 
 .header--h1 {
